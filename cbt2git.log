@@ -1,0 +1,9 @@
+2025-04-04 05:00:18.471177 - Received CBT.V508.FILE141.PDS from FILE141.XMI 
+2025-04-04 05:00:18.471819 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE141.PDS, moved to PDS/$$$#DATE
+2025-04-04 05:00:18.471963 - Found $$INFO.txt (text/plain) in CBT.V508.FILE141.PDS, moved to PDS/$$INFO
+2025-04-04 05:00:18.472097 - Found @FILE141.txt (text/plain) in CBT.V508.FILE141.PDS, moved to PDS/@FILE141
+2025-04-04 05:00:18.472264 - Found ATJ07S.txt (text/plain) in CBT.V508.FILE141.PDS, moved to PDS/ATJ07S
+2025-04-04 05:00:18.472392 - Found BRDANL.txt (text/plain) in CBT.V508.FILE141.PDS, moved to PDS/BRDANL
+2025-04-04 05:00:18.472505 - Found BRDCNV.txt (text/plain) in CBT.V508.FILE141.PDS, moved to PDS/BRDCNV
+2025-04-04 05:00:18.472633 - Found BRDREAD.txt (text/plain) in CBT.V508.FILE141.PDS, moved to PDS/BRDREAD
+2025-04-04 05:00:18.472755 - Found RUNJCL.jcl (text/plain) in CBT.V508.FILE141.PDS, moved to PDS/RUNJCL
